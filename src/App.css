@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.product{
+  background-color: #b2ff6a;
+  margin: 25px;
+  padding: 25px;
+  border: 2px solid rebeccapurple;
+  border-radius: 25px;
+}
